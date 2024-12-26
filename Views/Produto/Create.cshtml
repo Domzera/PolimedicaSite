@@ -1,0 +1,70 @@
+﻿@using PolimedicaSite.ViewModel;
+@model CreateProdutoViewModel;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+	ViewData["Title"] = "Cadastro de Produto";
+}
+
+<div class="container">
+	<h2>@DateTime.Now</h2>
+	<br />
+
+	<form method="post" asp-action="Create" enctype="multipart/form-data">
+		<!-- <input type="hidden" id="AppUserId" name="AppUserId" asp-for="AppUserId" /> -->
+		<div class="row">
+			<div class="col">
+				<div class="mb-3">
+					<label asp-for="NomeProduto">Produto</label>
+					<input asp-for="NomeProduto" class="form-control" placeholder="Produto">
+				</div>
+				<div class="mb-3">
+					<label asp-for="Descricao">Descricao</label>
+					<input asp-for="Descricao" class="form-control" placeholder="Descricao">
+				</div>
+				<div class="mb-3">
+					<label asp-for="Detalhes">Dtealhes</label>
+					<input asp-for="Detalhes" class="form-control" placeholder="Dtealhes">
+				</div>
+				<div class="form-check">
+					<input for="Ativo" class="form-check-input" type="checkbox">
+					<label class="form-check-label" for="flexCheckDefault">
+						Ativo
+					</label>
+				</div>
+				<div class="mb-3">
+					<label asp-for="Preco">Preço</label>
+					<input asp-for="Preco" class="form-control" type="number"><!-- Atenção aqui -->
+				</div>
+				<div class="mb-3">
+					<label asp-for="Estoque">Estoque</label>
+					<input asp-for="Estoque" class="form-control" placeholder="Estoque">
+				</div>
+			</div>
+			<div class="col">
+				<div class="mb-3">
+					<label asp-for="Imagem1">Imagem Prioncipal</label>
+					<input asp-for="Imagem1" class="form-control" placeholder="Imagem Prioncipal">
+				</div>
+				<div class="mb-3">
+					<label asp-for="Imagem2">Imagem 2</label>
+					<input asp-for="Imagem2" class="form-control" placeholder="Imagem 2">
+				</div>
+				<div class="mb-3">
+					<label asp-for="Imagem3">Imagem 3</label>
+					<input asp-for="Imagem3" class="form-control" placeholder="Imagem 3">
+				</div>
+				<div class="mb-3">
+					<label asp-for="Imagem4">Imagem 4</label>
+					<input asp-for="Imagem4" class="form-control" placeholder="Imagem 4">
+				</div>
+				<div class="mb-3">
+					<label asp-for="Imagem5">Imagem 5</label>
+					<input asp-for="Imagem5" class="form-control" placeholder="Imagem 5">
+				</div>
+			</div>
+		</div>
+		<button type="submit" class="btn btn-primary">Salvar</button>
+	</form>
+</div>

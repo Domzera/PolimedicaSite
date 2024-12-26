@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|c:\\users\\familia\\desktop\\polimedicasite\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|c:\\users\\familia\\desktop\\polimedicasite\\viewmodel\\createprodutoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|solutionrelative:viewmodel\\createprodutoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|c:\\users\\familia\\desktop\\polimedicasite\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|c:\\users\\familia\\desktop\\polimedicasite\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F2BCA6B-AD2F-4431-944C-F3D11BD166CE}|PolimedicaSite.csproj|solutionrelative:views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 715,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "Views\\Produto\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T14:33:00.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:31:22.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProdutoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\ViewModel\\CreateProdutoViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CreateProdutoViewModel.cs",
+              "ToolTip": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\ViewModel\\CreateProdutoViewModel.cs",
+              "RelativeToolTip": "ViewModel\\CreateProdutoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:31:06.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Familia\\Desktop\\PolimedicaSite\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:30:15.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
